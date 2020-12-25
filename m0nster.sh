@@ -38,7 +38,7 @@ banner() {
         toilet -f mono12 -F border Monster
     fi
     echo -e "\e[1;34m adde me in snapchat you can chat there (monster.3)!!!\e[0m"
-    echo -e "\e[1;32m           Telegram: https://t.me/TBombChat \e[0m"
+    echo -e "\e[1;32m           we aren't in the world we are actually the world \e[0m"
     echo -e "\e[4;32m   snapchat: https://www.snapchat.com/add/x.monster3 \e[0m"
     echo " "
 
@@ -137,4 +137,4 @@ do
         echo -e "\e[4;32m Invalid Input !!! \e[0m"
         pause
     fi
-Karakat Ba Sarkawtwy Anjam Dra Bo har keshayak la snapa chat bkan (x.monster3)
+ done
